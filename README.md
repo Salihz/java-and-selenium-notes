@@ -1,3 +1,3 @@
 # java-and-selenium-notes
 
-Java!
+Java Selenium notes!
